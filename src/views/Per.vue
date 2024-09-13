@@ -6,7 +6,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/me.jpg">
+            <img src="../../public/imges/me.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -26,8 +26,8 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/1111_2.png">
-            <img src="../../imges/1111_1.png">
+            <img src="../../public/imges/1111_2.png">
+            <img src="../../public/imges/1111_1.png">
           </div>
         </div>
         <div class="about-content">
@@ -39,7 +39,7 @@
           </p>
           <div class="about-pic">
             <div class="about-img">
-              <img src="../../imges/1111-hono.jpg">
+              <img src="../../public/imges/1111-hono.jpg">
               <span><small>圍一圈小組討論</small></span>
             </div>
           </div>
@@ -48,22 +48,22 @@
 
           <h3>與工程夥伴們到Amazon</h3>
           <p>公司讓我們去Amazon研習相關技術課程<br></p>
-          <div class="about-img"><img src="../../imges/1111_AWS.png"></div>
+          <div class="about-img"><img src="../../public/imges/1111_AWS.png"></div>
           <span><small>與Amazon講師合照</small></span>
-          <div class="about-img"><img src="../../imges/1111_AWS2.png"></div>
+          <div class="about-img"><img src="../../public/imges/1111_AWS2.png"></div>
           <span><small>用人體最長的手指，比出1111</small></span><br>
 
           <hr>
 
           <h3>下班後の夜生活</h3>
           <p>下班閒暇之餘，也會與同事聚餐、游泳等，不會是一層不變的加班日常<br>(沒有大專案要趕工的話0.0)</p>
-          <div class="about-img"><img src="../../imges/1111_game3.png"></div>
+          <div class="about-img"><img src="../../public/imges/1111_game3.png"></div>
           <span><small>與田中PK打標</small></span>
-          <div class="about-img"><img src="../../imges/1111_game2.png"></div>
+          <div class="about-img"><img src="../../public/imges/1111_game2.png"></div>
           <span><small>與田中PK打保</small></span>
-          <div class="about-img"><img src="../../imges/1111_game.png"></div>
+          <div class="about-img"><img src="../../public/imges/1111_game.png"></div>
           <span><small>輪流接力打遊戲機 (3個大男生的快樂，總是這麼樸實無華)</small></span>
-          <div class="about-img"><img src="../../imges/1111_g9wu.jpg"></div>
+          <div class="about-img"><img src="../../public/imges/1111_g9wu.jpg"></div>
           <span><small>居酒屋行動</small></span>
 
           <hr>
@@ -71,13 +71,13 @@
           <h3>假日揪一波</h3>
           <p>除了平常下班活動，有時假日也會有一些團揪，像是參加路跑、烤肉、旅遊等</p>
           <div class="about-img">
-            <img src="../../imges/1111_humma.png">
-            <img src="../../imges/1111_humma2.png">
+            <img src="../../public/imges/1111_humma.png">
+            <img src="../../public/imges/1111_humma2.png">
           </div>
           <span><small>放假揪出去烤肉肉~</small></span>
           <div class="about-img">
-            <img src="../../imges/1111_rubo.png">
-            <img src="../../imges/1111_rubo2.png">
+            <img src="../../public/imges/1111_rubo.png">
+            <img src="../../public/imges/1111_rubo2.png">
           </div>
           <span><small>參加路跑衝一波!!! (然後睡死w)</small></span>
 
@@ -87,11 +87,11 @@
           <p>前端部在南部分公司的同事，目前孤身一人，我就趁特休回南部時，買杯飲料給她一個surprise~! 哈哈<br></p>
           
           <div class="about-img">
-            <img src="../../imges/1111_south2.jpg">
+            <img src="../../public/imges/1111_south2.jpg">
             <span><small></small></span>
             <span><small></small></span>
-            <img src="../../imges/1111_south.jpg">
-            <img src="../../imges/1111_south3.jpg">
+            <img src="../../public/imges/1111_south.jpg">
+            <img src="../../public/imges/1111_south3.jpg">
           </div>
           <span><small>特地衝去高雄分部找她，還是很講義氣ㄉ好不^___^</small></span>
 
@@ -104,11 +104,11 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/ruten01.jpg">
-            <img src="../../imges/ruten02.jpg">
-            <img src="../../imges/ruten03.jpg">
-            <img src="../../imges/ruten04.jpg">
-            <img src="../../imges/ruten05.jpg">
+            <img src="../../public/imges/ruten01.jpg">
+            <img src="../../public/imges/ruten02.jpg">
+            <img src="../../public/imges/ruten03.jpg">
+            <img src="../../public/imges/ruten04.jpg">
+            <img src="../../public/imges/ruten05.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -124,8 +124,8 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/padi02.jpg">
-            <img src="../../imges/padi03.jpg">
+            <img src="../../public/imges/padi02.jpg">
+            <img src="../../public/imges/padi03.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -141,8 +141,8 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/ita01.jpg">
-            <img src="../../imges/ita02.jpg">
+            <img src="../../public/imges/ita01.jpg">
+            <img src="../../public/imges/ita02.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -158,7 +158,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/lambar.png">
+            <img src="../../public/imges/lambar.png">
           </div>
         </div>
         <div class="about-content">
@@ -173,7 +173,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/fighting.jpg">
+            <img src="../../public/imges/fighting.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -198,8 +198,8 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/mount01.jpg">
-            <img src="../../imges/mount02.jpg">
+            <img src="../../public/imges/mount01.jpg">
+            <img src="../../public/imges/mount02.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -219,8 +219,8 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/table01.jpg">
-            <img src="../../imges/table02.jpg">
+            <img src="../../public/imges/table01.jpg">
+            <img src="../../public/imges/table02.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -240,13 +240,13 @@
         <div class="about-pic">
           <div class="about-img">
             <a href="https://www.instagram.com/p/B_coIj5AVLj/?hl=zh-tw" target="_blank">
-              <img src="../../imges/seaout01.jpg">
+              <img src="../../public/imges/seaout01.jpg">
             </a>
             <a href="https://www.instagram.com/p/B_Hwvp2Ags5/?hl=zh-tw" target="_blank">
-              <img src="../../imges/seaout02.jpg">
+              <img src="../../public/imges/seaout02.jpg">
             </a>
             <a href="https://www.instagram.com/p/B_ugUzSgcyc/?hl=zh-tw" target="_blank">
-              <img src="../../imges/seaout03.jpg">
+              <img src="../../public/imges/seaout03.jpg">
             </a>
           </div>
         </div>
@@ -274,7 +274,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/goland01.jpg">
+            <img src="../../public/imges/goland01.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -282,7 +282,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/goland02.jpg">
+            <img src="../../public/imges/goland02.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -290,7 +290,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/goland03.jpg">
+            <img src="../../public/imges/goland03.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -305,7 +305,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/bkb01.jpg">
+            <img src="../../public/imges/bkb01.jpg">
           </div>
         </div>
         <div class="about-content">
@@ -324,8 +324,8 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/0001.png">
-            <img src="../../imges/0002.png">
+            <img src="../../public/imges/0001.png">
+            <img src="../../public/imges/0002.png">
           </div>
         </div>
         <div class="about-content">
@@ -333,7 +333,7 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/0003.png">
+            <img src="../../public/imges/0003.png">
           </div>
         </div>
         <div class="about-content">
@@ -341,8 +341,8 @@
         </div>
         <div class="about-pic">
           <div class="about-img">
-            <img src="../../imges/0004.png">
-            <img src="../../imges/0005.png">
+            <img src="../../public/imges/0004.png">
+            <img src="../../public/imges/0005.png">
           </div>
         </div>
       </div> -->
