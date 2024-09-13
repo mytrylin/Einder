@@ -1,9 +1,12 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import Index from '../views/Index.vue'
-import Per from '../views/Per.vue'
+import { createRouter, createWebHistory, createWebHashHistory } from 'vue-router'
+// import Index from '../views/Index.vue'
+// import Per from '../views/Per.vue'
+
+const Index = () => import('../views/Index.vue')
+const Per = () => import('../views/Per.vue')
 
 const router = createRouter ({
-  history: createWebHistory(import.meta.env.VITE_BASE_URL),
+  history: createWebHashHistory(),
   routes: [
     {
       path: '/',

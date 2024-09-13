@@ -3,14 +3,14 @@
   <div class="index-item item-card"
     v-for="(item, index) in items"
     >
-    <a :href="item.link" >
+    <router-link :to="item.link">
       <div class="item-card-img">
         <img :src="item.img">
       </div>
       <span class="item-card-title">
         {{ item.name }}
       </span>
-    </a>
+    </router-link>
   </div>
 </div>
 </template>
